@@ -41,7 +41,7 @@ npm run dev
 
  - Backend:
 
-   1. Clona este repositorio en tu máquina local.
+  1. Clona este repositorio en tu máquina local.
   2.  Navega hasta la carpeta `frontend-informa-test/client` en tu terminal.
   3. Instala las dependencias utilizando el siguiente comando:
 
